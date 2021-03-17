@@ -1,7 +1,7 @@
 ### Hi devs 👋    ![](https://komarev.com/ghpvc/?username=kaium8338&color=blueviolet)
 
 
-I am an developer who loves to make open source projects and contribute to build a community. I just love to make new projects using python. Love to work with javaScript. 
+I am a developer who loves to make open source projects and contribute to build a community. I just love to make new projects using python. Love to work with javaScript. 
 I do love football.
 
 ### Contact Me
